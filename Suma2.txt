@@ -1,3 +1,4 @@
 Num1 = int(input("Introduce un número: "))
 Num2 = int(input("Introduce otro número: "))
 print(f"La suma de: {Num1} y {Num2} es: ", (Num1+Num2))
+En el día primero xd
